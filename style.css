@@ -6,6 +6,11 @@
     font-family: "Courier New", sans-serif;
 }
 
+img.front-page-img {
+    height: 300px; 
+    width: auto;
+}
+
 .dishes {
     text-align: center;
     background-color: lightblue;
